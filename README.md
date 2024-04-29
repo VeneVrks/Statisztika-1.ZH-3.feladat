@@ -1,1 +1,6 @@
-# Statisztika-1.ZH-3.feladat
+Statisztika 1.zh 3.feladat megoldó program.
+
+
+
+Használata:
+
