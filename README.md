@@ -1,6 +1,6 @@
 Statisztika 1.zh 3.feladat megoldó program by: TA.
 
-Használata:
+[h1]Használata:[/h1]
 
 - Nyisd meg a "Program" mappát, majd az "adatok.txt"-t.
 - A kapott excel fájlban a Következő adatokat keresd meg: Bevétel alsóhatár, felsőhatár, gyakorisság
