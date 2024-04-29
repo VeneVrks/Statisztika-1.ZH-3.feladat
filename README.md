@@ -6,4 +6,6 @@ Használata:
 - A kapott excel fájlban a Következő adatokat keresd meg: Bevétel alsóhatár, felsőhatár, gyakorisság
 ![Első kép](images/kep1.png)
 
+- Ezeket az értékeket pontosvesszővel (;) illesszük be az "adatok.txt"-be
+![Második kép](images/kep2.png)
 
