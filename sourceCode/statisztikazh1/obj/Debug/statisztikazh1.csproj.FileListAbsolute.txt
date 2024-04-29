@@ -1,0 +1,7 @@
+D:\C#\statisztikazh1\statisztikazh1\obj\Debug\statisztikazh1.csproj.AssemblyReference.cache
+D:\C#\statisztikazh1\statisztikazh1\obj\Debug\statisztikazh1.csproj.CoreCompileInputs.cache
+D:\C#\statisztikazh1\statisztikazh1\bin\Debug\statisztikazh1.exe.config
+D:\C#\statisztikazh1\statisztikazh1\bin\Debug\statisztikazh1.exe
+D:\C#\statisztikazh1\statisztikazh1\bin\Debug\statisztikazh1.pdb
+D:\C#\statisztikazh1\statisztikazh1\obj\Debug\statisztikazh1.exe
+D:\C#\statisztikazh1\statisztikazh1\obj\Debug\statisztikazh1.pdb
