@@ -1,4 +1,4 @@
-Statisztika 1.zh 3.feladat megoldó program.
+Statisztika 1.zh 3.feladat megoldó program by: TA.
 
 Használata:
 
@@ -14,3 +14,9 @@ Használata:
 - Ekkor ez az ablak fog fogadni.
 ![Harmadik kép](images/kep3.png)
 
+- A konzol ablakban megjelennek az eredmények, viszont létrehoz egy "result.csv"-t és egy "result.txt" fájlt is.
+- A "result.csv" fájlt megnyitva excel táblázatban láthatjuk az értékeket.
+![Negyedik kép](images/kep4.png)
+
+
+- Használjátok egészséggel!
